@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuartzScheduler", "QuartzScheduler\QuartzScheduler.csproj", "{240EF054-A41C-46DC-872A-F2256DFF7A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzScheduler.App", "QuartzScheduler.App\QuartzScheduler.App.csproj", "{569B4B21-9BE1-46AF-93EC-DC0BD8805586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240EF054-A41C-46DC-872A-F2256DFF7A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240EF054-A41C-46DC-872A-F2256DFF7A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240EF054-A41C-46DC-872A-F2256DFF7A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240EF054-A41C-46DC-872A-F2256DFF7A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569B4B21-9BE1-46AF-93EC-DC0BD8805586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569B4B21-9BE1-46AF-93EC-DC0BD8805586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569B4B21-9BE1-46AF-93EC-DC0BD8805586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569B4B21-9BE1-46AF-93EC-DC0BD8805586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55BD0E11-C958-4F4F-9B50-B2C496A10532}
+	EndGlobalSection
+EndGlobal
